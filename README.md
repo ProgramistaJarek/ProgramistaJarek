@@ -13,7 +13,7 @@ I'm Jarek, a junior frontend developer.
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ProgramistaJarek)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProgramistaJarek)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ProgramistaJarek/ProgramistaJarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
